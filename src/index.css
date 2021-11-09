@@ -1,0 +1,16 @@
+.box{
+  box-shadow: 0 0 0 1px #ee6352,
+   0 0 0 2px #d45379,
+   0 0 0 3px #a4558f,
+   0 0 0 4px #6d588e,
+   0 0 0 5px #405378;
+
+  width: 30%;
+  margin: 0 20px;
+  max-width: 25em;
+  padding: 1em 2em;
+  border-radius: 1em;
+  margin-top: 80px;
+  
+
+}
